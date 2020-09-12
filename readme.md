@@ -1,8 +1,8 @@
-#Planet positions
+# Planet positions
 
 Computes planet positions, plus the Earth's Moon, on any given UTC time.
 
-##Usage
+## Usage
 
 Include planet-positions.js (or planet-positions.min.js), then call 
 
